@@ -1,16 +1,26 @@
 # SWING DJ & BENNY GOODMAN
 
-介绍主页：[班尼 古德曼](https://www.touchoftonga.com/DavidMulliss/benny-goodman.html)
+##### 1. 介绍主页：[班尼 古德曼](https://www.touchoftonga.com/DavidMulliss/benny-goodman.html) （这是一个链接）
+##### 2. 人物标签
+1. 江湖人称 **摇摆乐之王**，**the king of swing**
+2. 演奏乐器，**单簧管**，就是黑黑的竖笛 ：）
+3. 犹太裔，他的乐队中有黑人，打破种族界限
+4. 1935年到1938年期间，Benny Goodman和梅兰芳齐名，是全世界最受欢迎的歌手
 
-犹太裔，人称***摇摆乐之王***
 
-##### BennyGoodman对爵士乐的一次里程碑式的贡献
+##### 3. 他的巅峰时刻
+1938年1月16日，Benny Goodman和Gene Krupa将爵士乐第一次带入古典音乐殿堂级圣地的卡内基音乐厅。
+这件事情非常有意思，因为爵士乐一直以来的目标就是能够与古典音乐平起平坐。这次他们成功了，演出引起了轰动，证明了爵士乐雅俗共赏的特质。
 
-通过摇摆能够迅速建立爵士感，特别是在编曲方面--如果你说一首曲子具有爵士风味，那很有可能你说的就是摇摆感--摇摆某种意义上是非常“古典”的，由于受到了二十年代环境影响，所以其演绎也主要是由多人乐队完成，对于三重奏或者四重奏乐团这样更简洁明快的小乐团并不友好。
 
-这点非常有意思，因为爵士乐一直以来的目标就是能够与古典音乐平起平坐，当他们费劲心思组建规模庞大的乐队以制造“交响色彩”的时候，他们却更像是伴舞音乐。
 
-而当他们开始服从爵士本质上那种无拘无束的召唤以后，却真正的踏入了艺术的殿堂。那么摇摆感又是否可以理解为时代的笑料呢？恐怕不是，**当摇摆之王Benny Goodman在1938年将爵士乐第一次带入古典音乐殿堂级圣地的卡内基音乐厅的时候，毫无疑问这证明了它雅俗共赏的特质**。(摘自[知乎话题:如何定义爵士乐?](https://www.zhihu.com/question/21914518/answer/25373789))
 
-##### 音乐列表
+##### 4. 我最近听好男人的一些音乐 (网易云音乐的链接，可以直接打开)
 1. [love me or leave me](http://music.163.com/#/m/song?id=1095959)
+2. [Let's Dance](http://music.163.com/#/m/song?id=541180524)
+3. [One O'Clock Jump](http://music.163.com/#/m/song?id=1012279)
+4. [Swingtime In The Rockies](http://music.163.com/#/m/song?id=507697309)
+5. [Don't Be That Way](http://music.163.com/#/m/song?id=507697264)
+6. [Sing Sing Sing](http://music.163.com/#/m/song?id=27980321)
+7. [Taking a Chance on Love](http://music.163.com/#/m/song?id=27267809)
+8. [Stompin At The Savoy](http://music.163.com/#/m/song?id=1095916)
