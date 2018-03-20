@@ -4,11 +4,11 @@
 
 ### 2. 专门给女士们保留的，真相环节
 
-**1. 年轻时的好男人，又帅又潮又销魂**
+**年轻时的好男人，又帅又潮又销魂**
 
 <img width="150" height="150" src="https://github.com/lostingkaka/BrokenPiecesLiveHouse/raw/master/pics/Benny_Goodman_1942young.jpg">
 
-**2. 年纪大了后，一副教父派头，依然是魅力十足**
+**年纪大了后，一副教父派头，依然是魅力十足**
 
 <img width="150" height="150" src="https://github.com/lostingkaka/BrokenPiecesLiveHouse/blob/master/pics/Benny_Goodman_1970_old.jpg">
 
