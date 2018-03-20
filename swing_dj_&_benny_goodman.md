@@ -6,11 +6,11 @@
 
 **1. 年轻时的好男人，又帅又潮又销魂**
 
-![Benny Goodman young](https://github.com/lostingkaka/BrokenPiecesLiveHouse/raw/master/pics/Benny_Goodman_1942young.jpg =200x300)
+<img width="150" height="150" src="https://github.com/lostingkaka/BrokenPiecesLiveHouse/raw/master/pics/Benny_Goodman_1942young.jpg">
 
 **2. 年纪大了后，一副教父派头，依然是魅力十足**
 
-![Benny Goodman old](https://github.com/lostingkaka/BrokenPiecesLiveHouse/blob/master/pics/Benny_Goodman_1970_old.jpg =200x300)
+<img width="150" height="150" src="https://github.com/lostingkaka/BrokenPiecesLiveHouse/blob/master/pics/Benny_Goodman_1970_old.jpg">
 
 ### 3. 人物标签
 * 江湖人称 **摇摆乐之王**，**the king of swing**
